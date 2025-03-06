@@ -1,0 +1,32 @@
+.chat-list {
+    border-right: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    float: left;
+  }
+  
+  .chat-user {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .chat-user:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .chat-user.active {
+    background-color: #d0f0d0;
+  }
+  
+  .chat-window {
+    margin-left: 210px;
+    padding: 10px;
+  }
+    
+  .btn-primary{
+    background-color: #daf8cb;
+  }
+  .message-field{
+    min-width: 500px
+  }

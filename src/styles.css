@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.app {
+    text-align: center;
+    margin: 20px;
+}
+
+.auth-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px auto;
+}
+
+.auth-form {
+    margin: 20px;
+}
+
+.chat-container {
+    max-width: 900px;
+    min-height: 60vh;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.message-list {
+    height: 300px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+.message {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.message.sent {
+    background-color: #daf8cb;
+    text-align: right;
+}
+
+.message.received {
+    background-color: #f1f0f0;
+    text-align: left;
+}
+
+.message-input {
+    display: flex;
+    justify-content: space-between;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.btn-prime {
+    background-color: #daf8cb;
+    border-radius: 5px;
+}
+
+
