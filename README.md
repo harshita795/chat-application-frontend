@@ -6,6 +6,14 @@ This is the **React.js frontend** for a real-time chat application, connected to
 🛠 **Backend API**: [https://chat-application-backend-0nwz.onrender.com]  
 
 ---
+## Screnshots
+# Auth Page
+![image](https://github.com/user-attachments/assets/c2102435-d0d8-42f0-8584-e08da9d31bbc)
+# User-1 Chat
+![image](https://github.com/user-attachments/assets/f0e4c087-1e43-419a-bcb4-de893bec4f0b)
+# User-2 Chat
+![image](https://github.com/user-attachments/assets/11db8a6d-e659-4d17-ba0c-354dfb9060ca)
+
 
 ## 📌 Features
 
